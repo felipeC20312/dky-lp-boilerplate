@@ -1,17 +1,17 @@
-#   landingpage-boilerplate
+# Landingpage-Boilerplate
 
->   Base sólida, leve e escalável para construir **landing pages** e **sites simples** com **React + Vite + TailwindCSS**, seguindo o conceito de **Atomic Design**.
+> Base sólida, leve e escalável para construir **landing pages** e **sites simples** com **React + Vite + TailwindCSS**, seguindo o conceito de **Atomic Design**.
 
 ---
 
-##   Visão Geral
+## Visão Geral
 
 O **landingpage-boilerplate** foi criado para acelerar o desenvolvimento de landing pages modernas, mantendo uma estrutura organizada e escalável.  
 A ideia é permitir **forks rápidos** e reutilizáveis — e futuramente evoluir isso para uma **lib npm** modular.
 
 ---
 
-##  Tecnologias
+## Tecnologias
 
 -  **React + TypeScript** — componentezinhos tipados e felizes
 -  **Vite** — build ultrarrápido e DX de primeira
@@ -21,7 +21,7 @@ A ideia é permitir **forks rápidos** e reutilizáveis — e futuramente evolui
 
 ---
 
-##  Estrutura de Pastas
+## Estrutura de Pastas
 
 ```md
  .
@@ -78,7 +78,7 @@ Description:
 
 ---
 
-##  Scripts Principais
+## Scripts Principais
 
 | Comando           | Descrição                                  |
 | ----------------- | ------------------------------------------ |
@@ -90,7 +90,7 @@ Description:
 
 ---
 
-##  Como Usar
+## Como Usar
 
 1. **Clone o repositório**
 
@@ -115,7 +115,7 @@ npm run dev
 
 ---
 
-##  Filosofia do Projeto
+## Filosofia do Projeto
 
 A estrutura segue o Atomic Design, promovendo reutilização, padronização e manutenção simples.
 
@@ -128,7 +128,7 @@ Cada nível tem sua função:
 
 ---
 
-##  Roadmap
+## Roadmap
 
 - Criar CLI para geração de novas seções e páginas
 - Publicar como pacote npm
@@ -137,14 +137,14 @@ Cada nível tem sua função:
 
 ---
 
-##  Licença
+## Licença
 
 Distribuído sob a licença MIT — use, modifique e compartilhe livremente.
 Mas lembre-se: com grandes boilerplates vêm grandes responsabilidades.
 
 ---
 
-##  Autor
+## Autor
 
 Felipe C. Valverde
 (git: felipeC20312)
